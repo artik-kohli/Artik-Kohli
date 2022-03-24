@@ -1,4 +1,3 @@
-Hi, I’m Artius Shade,
-I’m interested in Artificial Intelligence and it's uses to make world a better place.
-I’m currently learning Python and looking forward to work on a Python Project.
-You can reach me at stillwaterartius@gmail.com
+# Hi I'm Artius Shade
+I love coding and solving problems by writing useful software.
+You can contact me at stillwaterartius@gmail.com
